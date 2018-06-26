@@ -1,0 +1,9 @@
+Package: com.spookybois.respringmsg
+Name: respringmsg
+Depends: mobilesubstrate, firmware (>= 8.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: First tweak - alert on successful respring!
+Maintainer: shane
+Author: shane
+Section: Tweaks
